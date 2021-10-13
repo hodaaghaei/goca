@@ -17,8 +17,8 @@
 package datastore
 
 import (
-	dyn "github.com/hodaaghaei/onego/dynamic"
-	"github.com/hodaaghaei/onego/schemas/datastore/keys"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/schemas/datastore/keys"
 )
 
 type Types string
