@@ -17,8 +17,8 @@
 package service_template
 
 import (
-    "github.com/hodaaghaei/onego/schemas/shared"
-    srv "github.com/hodaaghaei/onego/schemas/service"
+    "github.com/hodaaghaei/goca/schemas/shared"
+    srv "github.com/hodaaghaei/goca/schemas/service"
 )
 
 // Pool represents an OpenNebula Service pool
