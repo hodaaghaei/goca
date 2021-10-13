@@ -19,7 +19,7 @@ package shared
 import (
 	"encoding/xml"
 
-	dyn "github.com/hodaaghaei/onego/dynamic"
+	dyn "github.com/hodaaghaei/goca/dynamic"
 )
 
 // Disk is a structure allowing to parse disk templates
