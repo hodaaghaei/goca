@@ -19,9 +19,9 @@ package goca
 import (
 	"testing"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/marketplace"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/marketplace/keys"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/schemas/marketplace"
+	"github.com/hodaaghaei/goca/schemas/marketplace/keys"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 func TestMarketplace(t *testing.T) {
