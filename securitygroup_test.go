@@ -19,10 +19,10 @@ package goca
 import (
 	"testing"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/securitygroup"
-	secgroup "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/securitygroup"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/securitygroup/keys"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/schemas/securitygroup"
+	secgroup "github.com/hodaaghaei/goca/schemas/securitygroup"
+	"github.com/hodaaghaei/goca/schemas/securitygroup/keys"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 func TestSGAllocate(t *testing.T) {
