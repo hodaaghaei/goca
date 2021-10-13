@@ -20,8 +20,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/image"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/image/keys"
+	"github.com/hodaaghaei/goca/schemas/image"
+	"github.com/hodaaghaei/goca/schemas/image/keys"
 )
 
 var imageTpl = `
