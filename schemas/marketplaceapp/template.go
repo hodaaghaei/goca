@@ -17,8 +17,8 @@
 package marketplaceapp
 
 import (
-	dyn "github.com/hodaaghaei/onego/dynamic"
-	"github.com/hodaaghaei/onego/schemas/marketplaceapp/keys"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/schemas/marketplaceapp/keys"
 )
 
 // Types is a type used to enumerate marketplace app types
