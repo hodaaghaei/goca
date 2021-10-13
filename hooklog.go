@@ -19,7 +19,7 @@ package goca
 import (
 	"encoding/xml"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/hook"
+	"github.com/hodaaghaei/goca/schemas/hook"
 )
 
 // HookLogController is a controller for retrieve hook execution log information
