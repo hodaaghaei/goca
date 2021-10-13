@@ -17,8 +17,8 @@
 package marketplace
 
 import (
-	dyn "github.com/hodaaghaei/onego/dynamic"
-	"github.com/hodaaghaei/onego/schemas/marketplace/keys"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/schemas/marketplace/keys"
 )
 
 // Template is the dynamic part of the marketplace entity
