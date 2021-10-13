@@ -19,8 +19,8 @@ package securitygroup
 import (
 	"encoding/xml"
 
-	dyn "github.com/hodaaghaei/onego/dynamic"
-	"github.com/hodaaghaei/onego/schemas/securitygroup/keys"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/schemas/securitygroup/keys"
 )
 
 // Rule is a security group rule vector
