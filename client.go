@@ -24,7 +24,7 @@ import (
 	"os"
 	"strings"
 
-	errs "github.com/OpenNebula/one/src/oca/go/src/goca/errors"
+	errs "github.com/hodaaghaei/onego/errors"
 
 	cleanhttp "github.com/hashicorp/go-cleanhttp"
 	"github.com/kolo/xmlrpc"
