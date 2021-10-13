@@ -20,8 +20,8 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/hodaaghaei/onego/parameters"
-	"github.com/hodaaghaei/onego/schemas/cluster"
+	"github.com/hodaaghaei/goca/parameters"
+	"github.com/hodaaghaei/goca/schemas/cluster"
 )
 
 // ClustersController is a controller for Clusters
