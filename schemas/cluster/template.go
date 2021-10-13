@@ -17,8 +17,8 @@
 package cluster
 
 import (
-	dyn "github.com/hodaaghaei/onego/dynamic"
-	"github.com/hodaaghaei/onego/schemas/cluster/keys"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/schemas/cluster/keys"
 )
 
 // Template is a cluster template
