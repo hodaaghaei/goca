@@ -20,9 +20,9 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/image"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/parameters"
+	"github.com/hodaaghaei/goca/schemas/image"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 // ImagesController is a controller for Images
