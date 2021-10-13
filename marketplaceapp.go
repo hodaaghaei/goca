@@ -20,9 +20,9 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/marketplaceapp"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/parameters"
+	"github.com/hodaaghaei/goca/schemas/marketplaceapp"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 // MarketPlaceAppsController is a controller for a pool of MarketPlaceApps
