@@ -17,8 +17,8 @@
 package securitygroup
 
 import (
-	dyn "github.com/hodaaghaei/onego/dynamic"
-	"github.com/hodaaghaei/onego/schemas/securitygroup/keys"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/schemas/securitygroup/keys"
 )
 
 // Template represent the template part of the OpenNebula SecurityGroup
