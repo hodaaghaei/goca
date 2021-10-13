@@ -19,9 +19,9 @@ package template
 import (
 	"encoding/xml"
 
-	"github.com/hodaaghaei/onego/schemas/shared"
+	"github.com/hodaaghaei/goca/schemas/shared"
 
-	vm "github.com/hodaaghaei/onego/schemas/vm"
+	vm "github.com/hodaaghaei/goca/schemas/vm"
 )
 
 // Pool represents an OpenNebula Template pool
