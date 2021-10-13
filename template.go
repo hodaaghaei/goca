@@ -20,9 +20,9 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/template"
+	"github.com/hodaaghaei/goca/parameters"
+	"github.com/hodaaghaei/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/schemas/template"
 )
 
 // TemplatesController is a controller for a pool of template
