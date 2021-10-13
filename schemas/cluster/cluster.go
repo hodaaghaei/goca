@@ -19,7 +19,7 @@ package cluster
 import (
 	"encoding/xml"
 
-	shared "github.com/hodaaghaei/onego/schemas/shared"
+	shared "github.com/hodaaghaei/goca/schemas/shared"
 )
 
 // Pool represents an OpenNebula Cluster pool
