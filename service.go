@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/service"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/schemas/service"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 var endpointFService string
