@@ -20,8 +20,8 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/cluster"
+	"github.com/hodaaghaei/onego/parameters"
+	"github.com/hodaaghaei/onego/schemas/cluster"
 )
 
 // ClustersController is a controller for Clusters
