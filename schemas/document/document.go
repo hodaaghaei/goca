@@ -19,8 +19,8 @@ package document
 import (
 	"encoding/xml"
 
-	dyn "github.com/hodaaghaei/onego/dynamic"
-	"github.com/hodaaghaei/onego/schemas/shared"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 // Pool represents an OpenNebula Document pool
