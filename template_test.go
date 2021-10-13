@@ -19,11 +19,11 @@ package goca
 import (
 	"testing"
 
-	dyn "github.com/OpenNebula/one/src/oca/go/src/goca/dynamic"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/template"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/schemas/template"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/vm"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/vm/keys"
+	"github.com/hodaaghaei/goca/schemas/vm"
+	"github.com/hodaaghaei/goca/schemas/vm/keys"
 )
 
 // Helper to create a template
