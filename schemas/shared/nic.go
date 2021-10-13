@@ -19,7 +19,7 @@ package shared
 import (
 	"encoding/xml"
 
-	dyn "github.com/hodaaghaei/onego/dynamic"
+	dyn "github.com/hodaaghaei/goca/dynamic"
 )
 
 // NIC is a structure allowing to parse NIC templates. Common to VM and VRouter.
