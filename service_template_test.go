@@ -19,8 +19,8 @@ package goca
 import (
 	"testing"
 
-	srv_tmpl "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/service_template"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
+	srv_tmpl "github.com/hodaaghaei/goca/schemas/service_template"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 func createServiceTemplate(t *testing.T) (*srv_tmpl.ServiceTemplate, int) {
