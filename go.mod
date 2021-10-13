@@ -1,4 +1,4 @@
-module github.com/hodaaghaei/onego
+module github.com/hodaaghaei/goca
 
 go 1.12
 
