@@ -19,7 +19,7 @@ package host
 import (
 	"encoding/xml"
 
-	"github.com/hodaaghaei/onego/schemas/shared"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 // Pool represents an OpenNebula Host pool
