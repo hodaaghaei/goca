@@ -19,7 +19,7 @@ package goca
 import (
 	"encoding/xml"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/acl"
+	"github.com/hodaaghaei/onego/schemas/acl"
 )
 
 // ACLsController is a controller for a pool of ACL
