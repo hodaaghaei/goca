@@ -17,8 +17,8 @@
 package hook
 
 import (
-	dyn "github.com/hodaaghaei/onego/dynamic"
-	"github.com/hodaaghaei/onego/schemas/hook/keys"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/schemas/hook/keys"
 )
 
 // Template is a hook template
