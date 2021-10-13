@@ -20,9 +20,9 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/hook"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/parameters"
+	"github.com/hodaaghaei/goca/schemas/hook"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 // HooksController is a controller for create a hook or a pool of hooks
