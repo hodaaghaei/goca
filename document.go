@@ -20,9 +20,9 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/document"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/parameters"
+	"github.com/hodaaghaei/goca/schemas/document"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 // DocumentsController is a controller for documents entities
