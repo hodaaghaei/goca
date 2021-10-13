@@ -20,8 +20,8 @@ import (
 	"testing"
 	"time"
 
-	hk "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/hook"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/hook/keys"
+	hk "github.com/hodaaghaei/goca/schemas/hook"
+	"github.com/hodaaghaei/goca/schemas/hook/keys"
 )
 
 var call = "one.zone.raftstatus"
