@@ -20,9 +20,9 @@ import (
 	"errors"
 	"fmt"
 
-	dyn "github.com/OpenNebula/one/src/oca/go/src/goca/dynamic"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	param "github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/parameters"
+	param "github.com/hodaaghaei/goca/parameters"
 )
 
 // VMFilter groups filtering criterias for VMs
