@@ -22,9 +22,9 @@ import (
 	"fmt"
 	"strconv"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/service"
-	srv_tmpl "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/service_template"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/schemas/service"
+	srv_tmpl "github.com/hodaaghaei/goca/schemas/service_template"
+	"github.com/hodaaghaei/goca/schemas/shared"
 )
 
 var endpointFTemplate string
