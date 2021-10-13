@@ -24,7 +24,7 @@ import (
 	"os"
 	"strings"
 
-	errs "github.com/hodaaghaei/onego/errors"
+	errs "github.com/hodaaghaei/goca/errors"
 
 	cleanhttp "github.com/hashicorp/go-cleanhttp"
 	"github.com/kolo/xmlrpc"
