@@ -20,12 +20,12 @@ import (
 	"strconv"
 	"testing"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/image"
-	imgkeys "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/image/keys"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/marketplace"
-	mktkeys "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/marketplace/keys"
-	mktapp "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/marketplaceapp"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/marketplaceapp/keys"
+	"github.com/hodaaghaei/goca/schemas/image"
+	imgkeys "github.com/hodaaghaei/goca/schemas/image/keys"
+	"github.com/hodaaghaei/goca/schemas/marketplace"
+	mktkeys "github.com/hodaaghaei/goca/schemas/marketplace/keys"
+	mktapp "github.com/hodaaghaei/goca/schemas/marketplaceapp"
+	"github.com/hodaaghaei/goca/schemas/marketplaceapp/keys"
 )
 
 func TestMarketplaceApp(t *testing.T) {
