@@ -17,8 +17,8 @@
 package image
 
 import (
-	dyn "github.com/hodaaghaei/onego/dynamic"
-	"github.com/hodaaghaei/onego/schemas/image/keys"
+	dyn "github.com/hodaaghaei/goca/dynamic"
+	"github.com/hodaaghaei/goca/schemas/image/keys"
 )
 
 // Types is a type used to enumerate image types
