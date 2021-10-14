@@ -20,8 +20,8 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/vmgroup"
+	"github.com/hodaaghaei/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/schemas/vmgroup"
 )
 
 // VMGroupsController is a controller for vm groups entities
