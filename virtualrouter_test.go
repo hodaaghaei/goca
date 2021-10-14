@@ -19,13 +19,13 @@ package goca
 import (
 	"testing"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
-	vn "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/virtualnetwork"
-	vnkeys "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/virtualnetwork/keys"
-	vrouter "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/virtualrouter"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/virtualrouter/keys"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/vm"
-	vmkeys "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/vm/keys"
+	"github.com/hodaaghaei/goca/schemas/shared"
+	vn "github.com/hodaaghaei/goca/schemas/virtualnetwork"
+	vnkeys "github.com/hodaaghaei/goca/schemas/virtualnetwork/keys"
+	vrouter "github.com/hodaaghaei/goca/schemas/virtualrouter"
+	"github.com/hodaaghaei/goca/schemas/virtualrouter/keys"
+	"github.com/hodaaghaei/goca/schemas/vm"
+	vmkeys "github.com/hodaaghaei/goca/schemas/vm/keys"
 )
 
 func TestVirtualRouter(t *testing.T) {
