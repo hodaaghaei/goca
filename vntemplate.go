@@ -22,9 +22,9 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/vntemplate"
+	"github.com/hodaaghaei/goca/parameters"
+	"github.com/hodaaghaei/goca/schemas/shared"
+	"github.com/hodaaghaei/goca/schemas/vntemplate"
 )
 
 // VNTemplatesController is a controller for a pool of VNTemplate
