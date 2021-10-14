@@ -20,8 +20,8 @@ import (
 	"strings"
 	"testing"
 
-	vn "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/virtualnetwork"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/virtualnetwork/keys"
+	vn "github.com/hodaaghaei/goca/schemas/virtualnetwork"
+	"github.com/hodaaghaei/goca/schemas/virtualnetwork/keys"
 )
 
 // Helper to create a Virtual Network
