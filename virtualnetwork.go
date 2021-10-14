@@ -20,9 +20,9 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
-	vn "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/virtualnetwork"
+	"github.com/hodaaghaei/goca/parameters"
+	"github.com/hodaaghaei/goca/schemas/shared"
+	vn "github.com/hodaaghaei/goca/schemas/virtualnetwork"
 )
 
 // VirtualNetworksController is a controller for a pool of VirtualNetworks
