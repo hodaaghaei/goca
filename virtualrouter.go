@@ -20,9 +20,9 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/shared"
-	vr "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/virtualrouter"
+	"github.com/hodaaghaei/goca/parameters"
+	"github.com/hodaaghaei/goca/schemas/shared"
+	vr "github.com/hodaaghaei/goca/schemas/virtualrouter"
 )
 
 // VirtualRoutersController is a controller for a pool of VirtualRouters
