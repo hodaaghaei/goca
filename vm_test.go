@@ -21,10 +21,10 @@ package goca
 import (
 	"testing"
 
-	ds "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/datastore"
-	dskeys "github.com/OpenNebula/one/src/oca/go/src/goca/schemas/datastore/keys"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/vm"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/vm/keys"
+	ds "github.com/hodaaghaei/goca/schemas/datastore"
+	dskeys "github.com/hodaaghaei/goca/schemas/datastore/keys"
+	"github.com/hodaaghaei/goca/schemas/vm"
+	"github.com/hodaaghaei/goca/schemas/vm/keys"
 	. "gopkg.in/check.v1"
 )
 
