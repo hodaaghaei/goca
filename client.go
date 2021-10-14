@@ -142,8 +142,6 @@ func (c *Client) Call(method string, args ...interface{}) (*Response, error) {
 			&errs.ClientError{Code: errs.ClientReqBuild, Msg: "http request build", Err: err}
 	}
 	
-	req.Header.Add("Content-Type", "text/xml")
-  	req.Header.Add("Authorization", "Basic YWRtaW46Y2xvdWQ=")
 
 	resp, err := c.httpClient.Do(req)
 	if err != nil {
