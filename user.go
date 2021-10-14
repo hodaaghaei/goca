@@ -20,8 +20,8 @@ import (
 	"encoding/xml"
 	"errors"
 
-	"github.com/OpenNebula/one/src/oca/go/src/goca/parameters"
-	"github.com/OpenNebula/one/src/oca/go/src/goca/schemas/user"
+	"github.com/hodaaghaei/goca/parameters"
+	"github.com/hodaaghaei/goca/schemas/user"
 )
 
 // UsersController is a controller for a pool of Users
